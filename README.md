@@ -37,3 +37,12 @@ solders, mnemonic, base58
 
 Disclaimer  
 This tool is for learning and personal use only. Please keep your private keys and mnemonics safe. The author is not responsible for any asset loss caused by using this tool.
+
+
+## 打赏 / Support
+
+如果你觉得本项目对你有帮助，可以通过扫描下面的 Solana 收款二维码进行打赏。  
+打赏金额可自由选择，每一份支持都是对项目的鼓励和肯定，非常感谢！
+
+If you find this project helpful, you can support it by scanning the Solana payment QR code below.  
+Any amount is welcome, your support encourages and motivates further development. Thank you very much!
